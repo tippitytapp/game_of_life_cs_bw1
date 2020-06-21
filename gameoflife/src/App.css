@@ -1,0 +1,33 @@
+*{
+  border: 1px solid black;
+}
+
+.App {
+  text-align: center;
+}
+/* rules */
+ol{
+  width: 30%;
+  text-align: left;
+  position: absolute;
+  left: 5;
+  top: 25;
+}
+
+/* Grid */
+.grid{
+width: 65%;
+position: absolute;
+right: 0;
+margin-left: 1%;
+margin-top: 1%;
+
+}
+
+/* Footer */
+.footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+}
